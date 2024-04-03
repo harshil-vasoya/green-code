@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import "./scss/variable.scss";
+
+// *{
+// 	outline: 2px solid green;
+// 	background-color: rgba(0, 10 ,0 ,0.1);
+// }
+
+::selection{
+	background-color: #7cc52970;
+}
+
+
+
+
